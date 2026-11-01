@@ -99,10 +99,10 @@ What each one does:
 - No keyboard controls. You can't sort, filter or kill anything from inside it.
 - Linux only.
 
-## License
-
-MIT. See [LICENSE](LICENSE).
-
 ## Output
 
 <img width="732" height="807" alt="image" src="https://github.com/user-attachments/assets/6762402a-200c-43fb-ae08-2bc8002fa7e8" />
+
+## License
+
+MIT. See [LICENSE](LICENSE).
