@@ -105,4 +105,4 @@ MIT. See [LICENSE](LICENSE).
 
 ## Output
 
-![jiffytop output](docs/output.png)
+<img width="732" height="807" alt="image" src="https://github.com/user-attachments/assets/6762402a-200c-43fb-ae08-2bc8002fa7e8" />
